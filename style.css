@@ -13,3 +13,7 @@ body {
     height: 200px;
     width: auto;
 }
+
+.ingredient.list{
+    color:rgb(23, 0, 128);
+}
