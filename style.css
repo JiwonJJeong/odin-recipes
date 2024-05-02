@@ -1,0 +1,10 @@
+/* style.css */
+
+body {
+    font-family: "Helvetica", sans-serif;
+}
+
+.recipe-list{
+    background-color: bisque;
+    font-size: 15px;
+}
