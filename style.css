@@ -2,11 +2,34 @@
 
 body {
     font-family: "Helvetica", sans-serif;
+    background-color: white;
+}
+
+.recipe.card{
+    background-color: white;
+    width: 500px;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.recipe{
+    background-color: antiquewhite;
+}
+
+.recipe.title{
+    margin: 8px;
+    padding: 8px;
 }
 
 .recipe.list{
-    background-color: bisque;
     font-size: 20px;
+    margin: 8px;
+    padding: 8px;
+    
+}
+
+.recipe li {
+    margin-left: 50px;
 }
 
 .image {
